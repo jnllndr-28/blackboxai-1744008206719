@@ -1,0 +1,62 @@
+[
+    {
+        "question": "Which era is known as the 'Age of Dinosaurs'?",
+        "options": ["Paleozoic", "Mesozoic", "Cenozoic", "Proterozoic"],
+        "answer": "Mesozoic",
+        "explanation": "The Mesozoic Era spanned 252 to 66 million years ago, dominated by dinosaurs."
+    },
+    {
+        "question": "What is the longest geological period?",
+        "options": ["Cambrian", "Ordovician", "Silurian", "Devonian"],
+        "answer": "Cambrian",
+        "explanation": "The Cambrian period lasted about 53 million years, marking the beginning of the Paleozoic Era."
+    },
+    {
+        "question": "During which period did the first mammals appear?",
+        "options": ["Triassic", "Jurassic", "Cretaceous", "Paleogene"],
+        "answer": "Triassic",
+        "explanation": "Mammals first appeared during the Triassic period, around 225 million years ago."
+    },
+    {
+        "question": "What major event occurred at the end of the Cretaceous period?",
+        "options": ["Ice Age", "Mass extinction", "Volcanic eruption", "Continental drift"],
+        "answer": "Mass extinction",
+        "explanation": "The mass extinction event at the end of the Cretaceous period led to the extinction of the dinosaurs."
+    },
+    {
+        "question": "Which period is known for the development of flowering plants?",
+        "options": ["Paleozoic", "Mesozoic", "Cenozoic", "Proterozoic"],
+        "answer": "Cenozoic",
+        "explanation": "The Cenozoic Era is known for the rapid evolution of flowering plants."
+    },
+    {
+        "question": "What is the primary characteristic of the Paleozoic Era?",
+        "options": ["Age of mammals", "Age of reptiles", "Age of fish", "Age of invertebrates"],
+        "answer": "Age of fish",
+        "explanation": "The Paleozoic Era is characterized by the dominance of fish in the oceans."
+    },
+    {
+        "question": "Which geological period is known for the first land plants?",
+        "options": ["Ordovician", "Silurian", "Devonian", "Carboniferous"],
+        "answer": "Silurian",
+        "explanation": "The Silurian period saw the first land plants emerge."
+    },
+    {
+        "question": "During which era did the supercontinent Pangaea exist?",
+        "options": ["Paleozoic", "Mesozoic", "Cenozoic", "Proterozoic"],
+        "answer": "Mesozoic",
+        "explanation": "Pangaea existed during the late Paleozoic and early Mesozoic eras."
+    },
+    {
+        "question": "What significant climate change occurred during the Cenozoic Era?",
+        "options": ["Global warming", "Ice ages", "Tropical climate", "Desertification"],
+        "answer": "Ice ages",
+        "explanation": "The Cenozoic Era is marked by several ice ages."
+    },
+    {
+        "question": "Which period is known for the first dinosaurs?",
+        "options": ["Triassic", "Jurassic", "Cretaceous", "Paleogene"],
+        "answer": "Triassic",
+        "explanation": "Dinosaurs first appeared during the Triassic period."
+    }
+]
