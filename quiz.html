@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quiz - Geologic Timescale</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+    <link rel="stylesheet" href="style.css">
+    <script src="script.js" defer></script>
+</head>
+<body class="bg-gray-100 min-h-screen">
+    <div class="container mx-auto px-4 py-8">
+        <div class="max-w-3xl mx-auto">
+            <div class="flex justify-between items-center mb-8">
+                <a href="index.html" class="text-gray-600 hover:text-gray-800">
+                    <i class="fas fa-home"></i> Home
+                </a>
+                <div class="text-gray-700 font-medium">
+                    Question <span id="current-question">1</span>/<span id="total-questions">10</span>
+                </div>
+            </div>
+
+            <div class="bg-white rounded-xl shadow-md overflow-hidden">
+                <div class="p-8">
+                    <h2 id="question-text" class="text-xl font-bold text-gray-800 mb-6">Loading question...</h2>
+                    
+                    <form id="quiz-form">
+                        <div id="options-container" class="space-y-4 mb-8">
+                            <!-- Options will be inserted here by JavaScript -->
+                        </div>
+                        
+                        <button type="submit" class="w-full bg-green-600 hover:bg-green-700 text-white font-bold py-3 px-4 rounded-lg transition duration-300">
+                            Next Question <i class="fas fa-arrow-right ml-2"></i>
+                        </button>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
